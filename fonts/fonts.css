@@ -1,0 +1,329 @@
+/*
+	This font software is the property of Commercial Type.
+
+	You may not modify the font software, use it on another website, or install it on a computer.
+
+	License information is available at http://commercialtype.com/eula
+	For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+	Copyright (C) 2016 Schwartzco Inc.
+	
+*/
+
+
+.GraphikRBCLC-Thin-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 100;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-ThinItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 100;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Extralight-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 200;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-ExtralightItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 200;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Light-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-LightItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Regular-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-RegularItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 400;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Medium-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-MediumItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 500;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Semibold-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 600;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-SemiboldItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 600;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Bold-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-BoldItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Black-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 800;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-BlackItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 800;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-Super-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 900;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.GraphikRBCLC-SuperItalic-Web {
+    font-family: "Graphik RBC LC Web";
+    font-weight: 900;
+    font-style: italic;
+    font-stretch: normal;
+}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Thin-Web.eot");
+		src: url("GraphikRBCLC-Thin-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Thin-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Thin-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-ThinItalic-Web.eot");
+		src: url("GraphikRBCLC-ThinItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-ThinItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-ThinItalic-Web.woff") format("woff");
+	font-weight: 100;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Extralight-Web.eot");
+		src: url("GraphikRBCLC-Extralight-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Extralight-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Extralight-Web.woff") format("woff");
+	font-weight: 200;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-ExtralightItalic-Web.eot");
+		src: url("GraphikRBCLC-ExtralightItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-ExtralightItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-ExtralightItalic-Web.woff") format("woff");
+	font-weight: 200;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Light-Web.eot");
+		src: url("GraphikRBCLC-Light-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Light-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Light-Web.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-LightItalic-Web.eot");
+		src: url("GraphikRBCLC-LightItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-LightItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-LightItalic-Web.woff") format("woff");
+	font-weight: 300;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Regular-Web.eot");
+		src: url("GraphikRBCLC-Regular-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Regular-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Regular-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-RegularItalic-Web.eot");
+		src: url("GraphikRBCLC-RegularItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-RegularItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-RegularItalic-Web.woff") format("woff");
+	font-weight: 400;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Medium-Web.eot");
+		src: url("GraphikRBCLC-Medium-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Medium-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Medium-Web.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-MediumItalic-Web.eot");
+		src: url("GraphikRBCLC-MediumItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-MediumItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-MediumItalic-Web.woff") format("woff");
+	font-weight: 500;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Semibold-Web.eot");
+		src: url("GraphikRBCLC-Semibold-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Semibold-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Semibold-Web.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-SemiboldItalic-Web.eot");
+		src: url("GraphikRBCLC-SemiboldItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-SemiboldItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-SemiboldItalic-Web.woff") format("woff");
+	font-weight: 600;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Bold-Web.eot");
+		src: url("GraphikRBCLC-Bold-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Bold-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Bold-Web.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-BoldItalic-Web.eot");
+		src: url("GraphikRBCLC-BoldItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-BoldItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-BoldItalic-Web.woff") format("woff");
+	font-weight: 700;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Black-Web.eot");
+		src: url("GraphikRBCLC-Black-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Black-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Black-Web.woff") format("woff");
+	font-weight: 800;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-BlackItalic-Web.eot");
+		src: url("GraphikRBCLC-BlackItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-BlackItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-BlackItalic-Web.woff") format("woff");
+	font-weight: 800;
+	font-style: italic;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-Super-Web.eot");
+		src: url("GraphikRBCLC-Super-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-Super-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-Super-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: normal;
+	}
+
+@font-face {
+	font-family: "Graphik RBC LC Web";
+	src: url("GraphikRBCLC-SuperItalic-Web.eot");
+		src: url("GraphikRBCLC-SuperItalic-Web.eot?#iefix") format("embedded-opentype"),
+		     url("GraphikRBCLC-SuperItalic-Web.woff2") format("woff2"),
+		     url("GraphikRBCLC-SuperItalic-Web.woff") format("woff");
+	font-weight: 900;
+	font-style: italic;
+	}
+
+
+@font-face {
+	font-family: "KazimirTextRBC";
+	src: url("KazimirTextRBC-Regular_web.eot");
+		src: url("KazimirTextRBC-Regular_web.eot?#iefix") format("embedded-opentype"),
+			 url("KazimirTextRBC-Regular_web.woff2") format("woff2"),
+		     url("KazimirTextRBC-Regular_web.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	}

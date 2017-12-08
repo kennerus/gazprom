@@ -1,0 +1,98 @@
+html{
+    width: 100%;
+}
+body{
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-weight: inherit;
+    font-style: inherit;
+    font-family: inherit;
+    text-align: left;
+    vertical-align: baseline;
+    font-family: 'KazimirTextRBC', serif;
+    font-size: 18px;
+    line-height: 1.44;
+    background-color: white;
+}
+
+a {
+    text-decoration: none;
+    &:hover, &:focus, &:active{
+        text-decoration: none;
+    }
+}
+
+input{
+    outline: none;
+    &:hover, &:focus, &:active{
+        outline: none;
+    }
+}
+
+textarea{
+    outline: none;
+    &:hover, &:focus, &:active{
+        outline: none;
+    }
+}
+
+.bg-black {
+    background-color: #222222;
+}
+
+/* rubrics titles */
+.green-title-featured,
+.green-title-article {
+    margin: 0;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 1px;
+    color: #16b67f;
+    text-transform: uppercase;
+}
+
+.green-title-featured {
+    padding-top: 7px;
+    line-height: 1.14;
+}
+
+.green-title-article {
+    padding-top: 20px;
+    font-size: 11px;
+    letter-spacing: 0.8px;
+}
+
+/* news-titles */
+
+.article-title {
+    margin: 0;
+    padding-top: 13px;
+    font-size: 28px;
+    line-height: 1.14;
+    color: black;
+}
+
+.featured-title {
+    margin: 0;
+    font-size: 44px;
+    line-height: 1.09;
+    text-align: left;
+}
+
+/* padding for second featured block*/
+.pl160 {
+    padding-left: 160px;
+}
+
+
+
+@mixin transition {
+    transition: opacity 0.2s;
+
+    &:hover, &:active, &:focus {
+        opacity: 0.8;
+        transition: opacity 0.2s;
+    }
+}

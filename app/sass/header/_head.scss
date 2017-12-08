@@ -1,0 +1,45 @@
+.header__logo {
+	height: 36px;
+	padding-top: 10px;
+	padding-left: 24px;
+
+	a {
+		width: 60px;
+		height: 16px;
+
+		img {
+			vertical-align: middle;
+		}
+	}
+}
+
+.header__rubric {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 60px;
+	padding-left: 24px;
+
+	h1 {
+		font-size: 28px;
+		line-height: 1;
+		text-transform: uppercase;
+	}
+
+	.header__rubric-social {
+		padding-right: 24px;
+		a {
+			margin-right: 14px;
+
+			&:last-child {
+				margin-right: 0;
+			}
+
+			@include transition;
+
+			img {
+				vertical-align: middle;
+			}
+		}
+	}
+}
