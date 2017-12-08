@@ -17,7 +17,7 @@
 
 	.featured__article-industry {
 		width: 160px;
-		padding-right: 33px;
+		margin-right: 33px;
 	}
 
 	.featured__article-desc {
@@ -25,6 +25,15 @@
 			margin: 0;
 			margin-top: 23px;
 		}
+	}
+}
+
+/* for small featured articles */
+.small-article {
+	justify-content: flex-start;
+
+	.featured__article-desc {
+		width: 660px;
 	}
 }
 
